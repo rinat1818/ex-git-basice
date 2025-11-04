@@ -3,11 +3,12 @@ body{
     color: bisque;
 }
 .ball{
-    background-color: blueviolet;
+   
+    background-color: rgb(134, 61, 201);
     height: 100px;
     width: 100px;
     text-align: center;
-    margin: 0,auto;
+    margin: 0 auto;
     border-radius: 50%;
 }
 
