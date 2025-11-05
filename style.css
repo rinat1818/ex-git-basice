@@ -1,8 +1,13 @@
 body{
     background-color: palevioletred;
-    color: bisque;
+    color: rgb(27, 16, 174);
 }
 .ball{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    font-weight: bold;
    
     background-color: aqua;
     height: 100px;
